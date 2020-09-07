@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "111875077590",
+    "firebase_url": "https://baristand-training.firebaseio.com",
+    "project_id": "baristand-training",
+    "storage_bucket": "baristand-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111875077590:android:22f5c9660343996b11a077",
+        "android_client_info": {
+          "package_name": "com.baristand_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111875077590-nf7v23u965v0m1gvfegjqn1bspmqvf43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qZmtlaEjlxMBRyr6ygI-isSbhdzlHXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111875077590-nf7v23u965v0m1gvfegjqn1bspmqvf43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
